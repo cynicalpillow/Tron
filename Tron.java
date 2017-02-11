@@ -3,7 +3,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 public class Tron {
-	/* Simple Tron cycle game
+	/* 
+	 * Simple Tron cycle game
 	 * By Rui
 	 */
 	static int speed = 4;
